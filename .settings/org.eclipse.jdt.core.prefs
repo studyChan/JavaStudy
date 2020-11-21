@@ -1,8 +1,17 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=14
 org.eclipse.jdt.core.compiler.compliance=14
+=======
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=13
+org.eclipse.jdt.core.compiler.compliance=13
+>>>>>>> 834f2d7f6b2aad43e5468f93b29f268289b929da
 org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures=disabled
 org.eclipse.jdt.core.compiler.problem.forbiddenReference=warning
 org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=ignore
 org.eclipse.jdt.core.compiler.release=disabled
+<<<<<<< HEAD
 org.eclipse.jdt.core.compiler.source=14
+=======
+org.eclipse.jdt.core.compiler.source=13
+>>>>>>> 834f2d7f6b2aad43e5468f93b29f268289b929da
